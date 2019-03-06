@@ -18,6 +18,3 @@ It uses a custom physics and game engine.
 <img src="https://drive.google.com/uc?export=view&id=1FyVuRWkopWRB58m2XM6G0aFrZmlyqoHD" style="width: 100%; max-width: 100%; height: auto" title="5" alt="5" />
 
 <img src="https://drive.google.com/uc?export=view&id=1rpHLuKNV7QZToL2Dokv_xFszD18oHTeP" style="width: 100%; max-width: 100%; height: auto" title="6" alt="6" />
-
-<img src="https://drive.google.com/uc?export=view&id=15iB1tSu4o8B9-Bc094zImXH-pv7dOJr0" style="width: 100%; max-width: 100%; height: auto" title="7" alt="7" />
-
